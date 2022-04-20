@@ -1,0 +1,62 @@
+body {}
+
+.navb {
+    background-color: gray;
+}
+
+.navbar {
+    opacity: 0.8;
+}
+
+.first {
+    margin-top: 100px;
+    display: flex;
+    height: 300px;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 2px solid black;
+}
+
+.col1 {
+    flex: 33%;
+    border: 2px solid black;
+    opacity: .5;
+    margin: 10px;
+    padding: 12px;
+    text-align: center;
+}
+
+.icon {
+    color: darkblue;
+    font-size: 100px;
+}
+
+.book {
+    color: rgb(13, 237, 58);
+    font-size: 100px;
+}
+
+.user {
+    color: red;
+    font-size: 100px;
+}
+
+.cycle {
+    color: hsla(51, 87%, 50%, 0.884);
+    font-size: 100px;
+}
+
+.u {
+    color: hsl(227, 86%, 46%);
+    font-size: 100px;
+}
+
+.second {
+    margin-top: 20px;
+    display: flex;
+    height: 300px;
+    color: black;
+    box-sizing: border-box;
+    border-radius: 2px solid black;
+    width: 760px;
+}
